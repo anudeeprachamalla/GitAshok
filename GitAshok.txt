@@ -1,0 +1,12 @@
+Class Test
+{
+public static void m()
+{
+System.out.println("anudeeprachamalla");
+}
+public static void main(String args[])
+{
+Test t=new Test();
+t.m();
+}
+}
